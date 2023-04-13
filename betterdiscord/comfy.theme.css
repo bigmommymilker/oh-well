@@ -51,13 +51,13 @@
 */
 
   /* Avatars - Default value : 5px */
-  --avatar-radius: 5px;
+  --avatar-radius: 23px;
 
   /* Status - Default value : 3px */
-  --status-radius: 3px;
+  --status-radius: 10px;
 
   /* Servers - Default value : 8px */
-  --server-radius: 8px;
+  --server-radius: 20px;
 
   /* ═══════『 😃 Colored emoji picker 』═══════
 *   Change the value to "100%" if you want the default one */
