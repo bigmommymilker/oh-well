@@ -59,7 +59,7 @@
   /* ═══════『 😃 Colored emoji picker 』═══════
 *   Change the value to "100%" if you want the default one */
 
-  --colored-emoji: grayscale(50%);
+  --colored-emoji: grayscale(0%);
 
   /* ═══════『 📜 Server/channel list 』═══════ */
 
@@ -82,7 +82,8 @@
 
   /* ═══════『 💬 Chat buttons 』═══════ */
 
- 
+  /* Default value : #7289DA */   
+  --chat-buttons: #7289da;
 
   /* ═══════『 🟢 Status 』═══════ */
 
@@ -110,7 +111,7 @@
   --listening: #de6fa1;
 
   /* Role circle - Default value : 5px */
-  --role-circle: 5px;
+  --role-circle: 10px;
 
   /* ═══════『 🗑️ Discord logo 』═══════
 *   Set it to "block" if you still want it */
