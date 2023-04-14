@@ -22,9 +22,6 @@
 /* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
 @import "https://comfy-themes.github.io/Discord/betterdiscord/no-scrollbar.css";
 
-/* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you want the scrollbar back */
-@import "https://comfy-themes.github.io/Discord/betterdiscord/better-spotify.css";
-
 :root {
   /* ═══════『 💨 ・ Animations 』- If you don't want a high CPU usage, comment the line below */
   --disable-animations: 2s channel-unread infinite;
@@ -85,8 +82,7 @@
 
   /* ═══════『 💬 Chat buttons 』═══════ */
 
-  /* Default value : #7289DA */
-  --chat-buttons: #7289da;
+ 
 
   /* ═══════『 🟢 Status 』═══════ */
 
@@ -108,10 +104,10 @@
   /* ═══════『 🔰 User popout 』═══════ */
 
   /* Playing wave color */
-  --playing: #de6fa1;
+  --playing: #cc5289;
 
   /* Listening wave color */
-  --listening: #ffddf4;
+  --listening: #de6fa1;
 
   /* Role circle - Default value : 5px */
   --role-circle: 5px;
